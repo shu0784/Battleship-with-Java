@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/battleship/PrintField.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Placeship.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/35304#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 10 Jul 2024 21:08:09 UTC"
+record: 1

@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/battleship/Placeship.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/PrintField.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Ship.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Field.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/ShipModel.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Area.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/35305#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 16 Jul 2024 11:32:01 UTC"
+record: 2
